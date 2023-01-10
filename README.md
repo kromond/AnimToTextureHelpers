@@ -9,3 +9,5 @@ These are offered as a demonstration or example only, no support or guarantee is
 
 A video on these can be found here:
 https://youtu.be/vrlFozqB0jA
+
+![HighresScreenshot00015](https://user-images.githubusercontent.com/5624947/211672718-688c375f-e9b9-4872-85d8-2ba624694084.png)
