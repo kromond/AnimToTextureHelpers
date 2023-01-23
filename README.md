@@ -7,6 +7,8 @@ One UASSET is an Editor Utility Blueprint used to make vertex animation textures
 
 These are offered as a demonstration or example only, no support or guarantee is offered.  It’s likely these would need modification for your use case.
 
+NOTE: Clone the repo or download the files individually.  A user has noted that when using the "download zip" feature, the binary files get corrupted and won't be recognized in UE.
+
 A video on these can be found here:
 https://youtu.be/vrlFozqB0jA
 
