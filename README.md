@@ -8,8 +8,9 @@ These are  UASSETS for Unreal Engine 5.1 to help with using the AnimToTexture pl
 
 One UASSET is an Editor Utility Blueprint used to make vertex animation textures and related assets for bone based VAT motion.  
 
-The other UASSET are a blueprints for instancing a static meshes with vertex animation textures.
+The other UASSET are blueprints for instancing a static meshes with vertex animation textures.
 
+The original one from Kromond (updated to remove a useless for loop)
 One currently working with 2 Static meshes
 The other one with array of static mesh, but which doesn't work correctly yet : all instances are looping on all animation.
 
