@@ -1,5 +1,7 @@
 # AnimToTextureHelpers
 
+Update 19 Aug 2024: A PR was merged from a [tomaaron](https://github.com/tomaaron) updating to 5.3
+
 A PR was merged from user @Bobble68 updating this to now work with Unreal Engine 5.2.  Thanks @Bobble68, you are the hero of many.  The 5.1 version was moved to a branch.  
 
 This plugin will create vertex animation textures in Unreal Engine, taking a Skeletal Mesh and a set of animations and creating a static mesh and textures which will animate that static mesh.  This could be used to make a crowd, for example.
