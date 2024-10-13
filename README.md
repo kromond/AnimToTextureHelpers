@@ -1,4 +1,5 @@
 # AnimToTextureHelpers
+Update 13 Oct 2024: A PR was merged from [Mann763](https://github.com/Mann763) updating to 5.4
 
 Update 19 Aug 2024: A PR was merged from a [tomaaron](https://github.com/tomaaron) updating to 5.3
 
